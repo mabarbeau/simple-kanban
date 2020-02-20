@@ -1,4 +1,4 @@
-# triplebyte
+# kanban
 
 ## Project setup
 ```
