@@ -1,6 +1,9 @@
-# Simple Vue.js kanban board example
+# Simple Vue.js Kanban board example
 
-https://mabarbeau.github.io/simple-kanban/
+Demo: https://mabarbeau.github.io/simple-kanban/
+
+This project was created as a one day code challenge. The simple Kanban board was built on top of a Vue CLI template. You can see all the code changes in [this commit](https://github.com/mabarbeau/simple-kanban/commit/289992c1aa2f7e6b368cfbd6959ed4d4db469d51). The Kanban board utilises local storage preserve state.
+
 
 ## Project setup
 ```
