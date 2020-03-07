@@ -1,4 +1,6 @@
-# kanban
+# Simple Vue.js kanban board example
+
+https://mabarbeau.github.io/simple-kanban/
 
 ## Project setup
 ```
